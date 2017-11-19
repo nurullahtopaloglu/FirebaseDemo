@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "280676190535",
+    "firebase_url": "https://fir-demov2-2b0c6.firebaseio.com",
+    "project_id": "fir-demov2-2b0c6",
+    "storage_bucket": "fir-demov2-2b0c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280676190535:android:8313270a3b462592",
+        "android_client_info": {
+          "package_name": "com.example.asus.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280676190535-gbngeauti8gmc189veh4bdngl4ak45ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.firebasedemo",
+            "certificate_hash": "fd5159c55d0d1736eb6fbc1ab0dd2b5b734b1cdd"
+          }
+        },
+        {
+          "client_id": "280676190535-ps93ss4amirsto2g7v8hjccn49siafdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnr75TTzoNzZM9kYAUPK5WRLZLYN2TWSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280676190535-ps93ss4amirsto2g7v8hjccn49siafdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
